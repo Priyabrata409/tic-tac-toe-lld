@@ -1,0 +1,6 @@
+# It should be 3* 3 board
+# It supports 2 players
+# It supports 2 Symbols ["X", "0"]
+# First Player will use "X" and Second Player will use "0"
+# if all the rows or column diagolan filled with same element , then corresponding player will win.
+
